@@ -49,7 +49,7 @@ Dự án Chat App dự kiến có các chức năng sau:
 <tr>
   <center>
     - Chat 1-1
-    <img src="[https://viettechview.com/jp/admin/assets/images/404.png](https://scontent.fhan14-2.fna.fbcdn.net/v/t1.15752-9/400294690_861661592411358_8299794520619596524_n.png?stp=dst-png_s2048x2048&_nc_cat=106&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeGa7B0y9DRFwmg1cTAT8hbPVr3WJOE8cWhWvdYk4TxxaLMe3w0q4mlKyPLPpgkrWr1UBwxLcfTbBYRkQBNwHsy1&_nc_ohc=9tWkbfrFRSIAX8j9pUi&_nc_ht=scontent.fhan14-2.fna&oh=03_AdRXRXD3opHJex_V5whhdMxgUH_NbHP6f152AtvcFfVsDw&oe=6571C31E)https://scontent.fhan14-2.fna.fbcdn.net/v/t1.15752-9/400294690_861661592411358_8299794520619596524_n.png?stp=dst-png_s2048x2048&_nc_cat=106&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeGa7B0y9DRFwmg1cTAT8hbPVr3WJOE8cWhWvdYk4TxxaLMe3w0q4mlKyPLPpgkrWr1UBwxLcfTbBYRkQBNwHsy1&_nc_ohc=9tWkbfrFRSIAX8j9pUi&_nc_ht=scontent.fhan14-2.fna&oh=03_AdRXRXD3opHJex_V5whhdMxgUH_NbHP6f152AtvcFfVsDw&oe=6571C31E" />
+    <img src="https://scontent.fhan14-2.fna.fbcdn.net/v/t1.15752-9/400294690_861661592411358_8299794520619596524_n.png?stp=dst-png_s2048x2048&_nc_cat=106&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeGa7B0y9DRFwmg1cTAT8hbPVr3WJOE8cWhWvdYk4TxxaLMe3w0q4mlKyPLPpgkrWr1UBwxLcfTbBYRkQBNwHsy1&_nc_ohc=9tWkbfrFRSIAX8j9pUi&_nc_ht=scontent.fhan14-2.fna&oh=03_AdRXRXD3opHJex_V5whhdMxgUH_NbHP6f152AtvcFfVsDw&oe=6571C31E" />
 
   - Chat nhóm
   </center>
